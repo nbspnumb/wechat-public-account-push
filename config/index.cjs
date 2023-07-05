@@ -8,7 +8,7 @@
 const USER_CONFIG = {
 
   // 使用push-deer推送
-  USE_PASSAGE: 'push-deer',
+  // USE_PASSAGE: 'push-deer',
   
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx829e3afc6859a81c',
@@ -26,11 +26,11 @@ const USER_CONFIG = {
 
       // 使用微信测试号推送消息，参数配置
       id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
-      useTemplateId: 'kGljI6ZPSO82OYN90ZVXJIxbJ-jqO8hsNlomgtYogqk',
+      useTemplateId: 'Xwa_JnE2bvGgQdfbZkC6voeutGy7uAvgkhBPrhlBEhc',
       
       // 使用push-deer推送消息，参数配置
-      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
-      useTemplateId: '0003',
+      // id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
+      // useTemplateId: '0003',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-05',
