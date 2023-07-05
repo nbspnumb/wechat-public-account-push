@@ -58,7 +58,7 @@ const TEMPLATE_CONFIG = [
     desc: `
        🗓️{{date.DATA}}
 
-       今日天气☁️：{{weather.DATA}} 
+       今日天气☁️：{{weather.DATA}}    
        温度🌡️: {{min_temperature.DATA}}-{{max_temperature.DATA}} 
        
        {{notice.DATA}}
