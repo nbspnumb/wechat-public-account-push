@@ -58,14 +58,15 @@ const TEMPLATE_CONFIG = [
     desc: `
        🗓️{{date.DATA}}
 
-       ❤️今天是我们恋爱的第{{love_day.DATA}}天，爱你❤️
-
-       今日{{city.DATA}}天气☁️：{{weather.DATA}} /r
-       温度🌡️: {{min_temperature.DATA}}-{{max_temperature.DATA}} /r
-       ❣:{{notice.DATA}}
+       今日天气☁️：{{weather.DATA}} 
+       温度🌡️: {{min_temperature.DATA}}-{{max_temperature.DATA}} 
        
+       {{notice.DATA}}
+
+       ❤️今天是我们恋爱的第{{love_day.DATA}}天，想你❤️
+
        🎂{{birthday_message.DATA}}
-       💌{{earthy_love_words.DATA}}💌
+       💌{{earthy_love_words.DATA}}
        
        {{note_en.DATA}}  
        {{note_ch.DATA}}
