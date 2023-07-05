@@ -29,8 +29,8 @@ const USER_CONFIG = {
       useTemplateId: '0003',
       
       // 使用微信测试号，参数配置
-      // id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
-      // useTemplateId: 'kGljI6ZPSO82OYN90ZVXJIxbJ-jqO8hsNlomgtYogqk',
+      id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
+      useTemplateId: 'kGljI6ZPSO82OYN90ZVXJIxbJ-jqO8hsNlomgtYogqk',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-05',
@@ -41,7 +41,7 @@ const USER_CONFIG = {
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '李四', year: '1998', date: '02-05',
+          type: '生日', name: '宝贝', year: '1998', date: '02-05',
         },
         {
           type: '节日', name: '相识纪念日', year: '2023', date: '06-04',
