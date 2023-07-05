@@ -65,11 +65,11 @@ const TEMPLATE_CONFIG = [
 
        ❤️今天是我们恋爱的第{{love_day.DATA}}天，想你❤️
 
-       🎂{{birthday_message.DATA}}
+       // 🎂{{birthday_message.DATA}}
        💌{{earthy_love_words.DATA}}
        
-       {{note_en.DATA}}  
-       {{note_ch.DATA}}
+       // {{note_en.DATA}}  
+       // {{note_ch.DATA}}
 
     `
   },
