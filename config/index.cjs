@@ -26,7 +26,7 @@ const USER_CONFIG = {
 
       // 使用微信测试号推送消息，参数配置
       id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
-      useTemplateId: 'tVHrzsfvWa-nKiOomm4xH1-J4SJKUnYczxKO1EeTqEA',
+      useTemplateId: '_34UFJAAHMVWfUMA-ZQTOwiETzTdmt_vRgdy5c-92EQ',
       
       // 使用push-deer推送消息，参数配置
       // id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
