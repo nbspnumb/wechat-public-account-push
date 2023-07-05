@@ -24,13 +24,13 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '乔宝贝',
 
-      // push-deer的参数配置
-      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
-      useTemplateId: '0003',
-      
-      // 使用微信测试号，参数配置
+      // 使用微信测试号推送消息，参数配置
       id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
       useTemplateId: 'kGljI6ZPSO82OYN90ZVXJIxbJ-jqO8hsNlomgtYogqk',
+      
+      // 使用push-deer推送消息，参数配置
+      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
+      useTemplateId: '0003',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-05',
