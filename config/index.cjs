@@ -26,7 +26,7 @@ const USER_CONFIG = {
 
       // push-deer的参数配置
       id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
-      useTemplateId: '0001',
+      useTemplateId: '0003',
       
       // 使用微信测试号，参数配置
       // id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
