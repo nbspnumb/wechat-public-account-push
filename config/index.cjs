@@ -26,7 +26,7 @@ const USER_CONFIG = {
 
       // 使用微信测试号推送消息，参数配置
       id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
-      useTemplateId: 'FIqFNk0MhbU-Rc_LrZQ2OTVmx6AtlbvhBZ0zfouHlrU',
+      useTemplateId: 'yFidaz_ZEHZmHXC638HLX4Tygv_aJdwnONifkp4Frxc',
       
       // 使用push-deer推送消息，参数配置
       // id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
@@ -59,13 +59,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'FIqFNk0MhbU-Rc_LrZQ2OTVmx6AtlbvhBZ0zfouHlrU',
+  CALLBACK_TEMPLATE_ID: '',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
+      id: '',
     }
   ],
 
