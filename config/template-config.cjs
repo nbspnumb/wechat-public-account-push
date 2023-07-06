@@ -56,12 +56,16 @@ const TEMPLATE_CONFIG = [
     id: '0003',
     title: '乔宝贝，早上好！',
     desc: `
-
       🗓️{{date.DATA}}
+      
       💑今天是我们恋爱的第{{love_day.DATA}}天，爱你
+      
       ☁️天气：{{weather.DATA}}
+      
       🌡️温度: {{min_temperature.DATA}}-{{max_temperature.DATA}}℃
+      
       📢{{notice.DATA}}
+      
       ✉{{note_en.DATA}}{{note_ch.DATA}}
        
     `
