@@ -29,7 +29,7 @@ const USER_CONFIG = {
       useTemplateId: 'mF5nscQZ7fASzxydG2omCZkT8Z5EPPookc9AE6ku-DI',
       
       // 使用push-deer推送消息，参数配置
-      id: ['PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y','PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y'],
+      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y','PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
       useTemplateId: '0003',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
