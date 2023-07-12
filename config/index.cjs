@@ -25,7 +25,7 @@ const USER_CONFIG = {
       name: '乔宝贝',
 
       // 使用微信测试号推送消息，参数配置
-      id: 'oUOIJ6vJrI6ukspNM084ZQ5H-_QM',
+      id: 'oUOIJ6q5cJwE8pV00Jg770hxmJ3c',
       useTemplateId: 'mF5nscQZ7fASzxydG2omCZkT8Z5EPPookc9AE6ku-DI',
       
       // 使用push-deer推送消息，参数配置
