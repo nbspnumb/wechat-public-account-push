@@ -64,13 +64,29 @@ const TEMPLATE_CONFIG = [
       
       ☁️天气：{{weather.DATA}}
       
-      🌡️温度: {{min_temperature.DATA}}-{{max_temperature.DATA}}℃
+      🌡️温度: {{min_temperature.DATA}}-{{max_temperature.DATA}}
 
-      🌈彩虹屁：{{earthy_love_words.DATA}}
-      
       📢{{notice.DATA}}
       
       ✉{{note_en.DATA}}{{note_ch.DATA}}
+
+      🌈彩虹屁：{{earthy_love_words.DATA}}
+       
+    `
+  },
+
+      {
+    id: '0004',
+    title: '推送提醒',
+    desc: `
+      🗓️{{date.DATA}}
+      
+      服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
+       
+      共推送 {{need_post_num.DATA}} 人
+      成功: {{success_post_num.DATA}} | 失败: {{fail_post_num.DATA}}
+      成功用户: {{success_post_ids.DATA}}
+      失败用户: {{fail_post_ids.DATA}}
        
     `
   },
