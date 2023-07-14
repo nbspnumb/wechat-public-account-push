@@ -11,13 +11,16 @@ const USER_CONFIG = {
   // USE_PASSAGE: 'push-deer',
 
   //使用push-plus推送，微信显示设备消息
-  USE_PASSAGE: 'push-plus',
+  // USE_PASSAGE: 'push-plus',
   
   // 使用微信测试号：公众号APP_ID
   // APP_ID: 'wx829e3afc6859a81c',
   // 使用微信测试号：公众号APP_SECRET
   // APP_SECRET: '3c22ce10e9491649d6787aac1db62d7a',
 
+  //使用server-chan推送，微信显示方糖
+  USE_PASSAGE: 'server-chan',
+  
   PROVINCE: '安徽',
   CITY: '阜阳',
 
@@ -35,7 +38,11 @@ const USER_CONFIG = {
       // useTemplateId: 'mF5nscQZ7fASzxydG2omCZkT8Z5EPPookc9AE6ku-DI',
       
       // 使用push-plus推送消息，参数配置
-      id: '7a6cef598d054a479593dbbbe67b2766',
+      // id: '7a6cef598d054a479593dbbbe67b2766',
+      // useTemplateId: '0003',
+
+      // 使用server-chan推送消息，参数配置
+      id: 'SCT216279TkuBslOZGCrhfmQ2Z4itwojVl',
       useTemplateId: '0003',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
