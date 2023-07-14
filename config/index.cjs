@@ -8,7 +8,7 @@
 const USER_CONFIG = {
 
   // 使用push-deer推送，安装ios软件
-  // USE_PASSAGE: 'push-deer',
+  USE_PASSAGE: 'push-deer',
 
   //使用push-plus推送，微信显示设备消息
   // USE_PASSAGE: 'push-plus',
@@ -19,7 +19,7 @@ const USER_CONFIG = {
   // APP_SECRET: '3c22ce10e9491649d6787aac1db62d7a',
 
   //使用server-chan推送，微信显示方糖
-  USE_PASSAGE: 'server-chan',
+  // USE_PASSAGE: 'server-chan',
   
   PROVINCE: '安徽',
   CITY: '阜阳',
@@ -30,8 +30,8 @@ const USER_CONFIG = {
       name: '乔宝贝',
 
       // 使用push-deer推送消息，参数配置
-      // id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
-      // useTemplateId: '0003',
+      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
+      useTemplateId: '0003',
       
       // 使用微信测试号推送消息，参数配置
       // id: 'oUOIJ6q5cJwE8pV00Jg770hxmJ3c',
@@ -42,8 +42,8 @@ const USER_CONFIG = {
       // useTemplateId: '0003',
 
       // 使用server-chan推送消息，参数配置
-      id: 'SCT216279TkuBslOZGCrhfmQ2Z4itwojVl',
-      useTemplateId: '0003',
+      // id: 'SCT216279TkuBslOZGCrhfmQ2Z4itwojVl',
+      // useTemplateId: '0003',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '02-05',
@@ -74,13 +74,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '0004',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU23816Tgku1Bzl2gmebxtOftUIGL5Kr9RI0HV6y',
     }
   ],
 
