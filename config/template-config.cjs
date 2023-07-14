@@ -70,7 +70,7 @@ const TEMPLATE_CONFIG = [
       
       ✉{{note_en.DATA}}{{note_ch.DATA}}
 
-      🌈彩虹屁：{{earthy_love_words.DATA}}
+      🌈{{earthy_love_words.DATA}}
        
     `
   },
