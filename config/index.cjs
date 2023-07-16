@@ -22,7 +22,7 @@ const USER_CONFIG = {
   // USE_PASSAGE: 'server-chan',
   
   PROVINCE: '安徽',
-  CITY: '阜阳',
+  CITY: '黄山',
 
   USERS: [
     {
